@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
             ElevatedButton(
               onPressed: () {
                 ScaffoldMessenger.of(context).showSnackBar(
-                  const SnackBar(content: Text('Botón presionado')),
+                  const SnackBar(content: Text('El Botón Fue presionado')),
                 );
               },
               child: const Text('Mostrar SnackBar'),
