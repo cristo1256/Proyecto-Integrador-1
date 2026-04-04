@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('App Cristopher Mejia'),
+        title: const Text('Aplicacion Cristopher Mejia'),
         backgroundColor: Colors.purple,
       ),
       body: Center(
