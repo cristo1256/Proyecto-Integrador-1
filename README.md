@@ -71,7 +71,7 @@ Crear un nuevo dispositivo:
 ○ Elegir imagen del sistema: Android 13 o 14 .
 Finalizar.
 
-Evidencia4:
+Evidencia5:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/5.png)
 
 1.5 Instalación del Flutter SDK en Windows
@@ -91,7 +91,7 @@ Agregar la ruta:
 C:\src\flutter\bin
 Guardar.
 
-Evidencia5:
+Evidencia6:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/6.png)
 
 
@@ -99,7 +99,7 @@ Evidencia5:
 Abrir PowerShell o CMD y ejecutar:
 flutter --version
 
-Evidencia6:
+Evidencia7:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/7.png)
 
 
@@ -112,7 +112,7 @@ Debe mostrar:
 ● ✔ VS Code detectado
 ● ✔ Dispositivo disponible
 
-Evidencia6:
+Evidencia8:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/8.png)
 
 
@@ -125,7 +125,7 @@ Debe aparecer:
 o
 ● Tu teléfono físico conectado por USB
 
-Evidencia7:
+Evidencia9:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/9.png)
 
 
@@ -142,8 +142,8 @@ Elegir carpeta donde guardar el proyecto.
 Asignar nombre:
 proyecto_flutter
 
-Evidencia8:
-![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/9.png)
+Evidencia10:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/10.png)
 
 
 2.2 Ejecutar la aplicación
@@ -152,7 +152,15 @@ Abrir el archivo main.dart.
 Presionar F5 o ejecutar:
 flutter run
 La aplicación debe abrirse en el emulador.
-Pruebas:
+
+Evidencia11:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/11.png)
+
+Evidencia12:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/12.png)
+
+
+
 3. Modificaciones básicas (4 puntos)
 Se modificó el archivo lib/main.dart para cumplir con los requisitos.
 3.1 Cambios realizados
@@ -201,7 +209,8 @@ child: const Text('Mostrar SnackBar'),
 }
 }
 
-Evidencia:
+Evidencia13:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/13.png)
 
 4. Navegación entre pantallas (2 puntos)
 4.1 Botón para ir a la segunda pantalla
@@ -235,7 +244,14 @@ child: const Text('Regresar'),
 );
 }
 }
-Evidencia:
+
+Evidencia14:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/14.png)
+
+Evidencia15:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/15.png)
+
+
 
 5. Uso de GitHub (1 punto)
 5.1 Crear repositorio
@@ -249,7 +265,8 @@ git rama -M principal
 git remoto agregar origen https://github.com/usuario/repositorio.git
 git push -u origen principal
 
-Evidencia:
+Evidencia16:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/16.png)
 
 6. README.md (1 punto)
 
@@ -263,4 +280,8 @@ Cambio de título y AppBar
 Botón con SnackBar
 Navegación entre pantallas
 Repositorio con commits reales
+
+Evidencia17:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/17.png)
+
 
