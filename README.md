@@ -13,7 +13,7 @@ https://git-scm.com/downloads
 4. Presionar Next en todas las opciones por defecto.
 5. Finalizar la instalación.
 Evidencia:
-![imagen](1)
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/1.png)
 1.2 Instalación de Visual Studio Code (Editor principal)
 VS Code será el editor donde escribirás tu código Flutter.
 Pasos:
