@@ -90,12 +90,17 @@ En Variables del sistema , seleccione Ruta → Editar .
 Agregar la ruta:
 C:\src\flutter\bin
 Guardar.
+
+Evidencia5:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/6.png)
+
+
 1.6 Verificar instalación de Flutter
 Abrir PowerShell o CMD y ejecutar:
 flutter --version
 
-Evidencia5:
-![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/6.png)
+Evidencia6:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/7.png)
 
 
 1.7 Ejecutar flutter doctor
@@ -108,7 +113,7 @@ Debe mostrar:
 ● ✔ Dispositivo disponible
 
 Evidencia6:
-![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/7.png)
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/8.png)
 
 
 
@@ -121,7 +126,7 @@ o
 ● Tu teléfono físico conectado por USB
 
 Evidencia7:
-![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/8.png)
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/9.png)
 
 
 
