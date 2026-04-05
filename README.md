@@ -13,7 +13,7 @@ https://git-scm.com/downloads
 4. Presionar Next en todas las opciones por defecto.
 5. Finalizar la instalación.
 
-Evidencia:
+Evidencia1:
 ![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/1.png)
 
 1.2 Instalación de Visual Studio Code (Editor principal)
@@ -28,7 +28,10 @@ Extensiones necesarias:
 Abrir VS Code → pestaña Extensions (icono de cuadritos) → instalar:
 ● Flutter
 ● Dart
-Evidencia:
+
+Evidencia2:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/2.png)
+
 1.3 Instalación de Android Studio (solo para SDK y emulador)
 Aunque usarás VS Code, Android Studio es necesario para:
 ● Android SDK
