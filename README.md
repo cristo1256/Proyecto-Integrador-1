@@ -52,7 +52,10 @@ Verifique que estén instalados:
 ○ ✔ Android SDK 34 o superior
 ○ ✔ Android SDK Platform Tools
 ○ ✔ Android Emulator
-Evidencia:
+
+Evidencia3:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/3.png)
+
 1.4.2 Crear un emulador de Android
 
 En la pantalla inicial de Android Studio → Más acciones → AVD Manager .
