@@ -23,6 +23,7 @@ Pasos:
 https://code.visualstudio.com/
 2. Descargar VS Code para Windows .
 3. Instalar con opciones por defecto.
+
 Extensiones necesarias:
 
 Abrir VS Code → pestaña Extensions (icono de cuadritos) → instalar:
@@ -43,6 +44,12 @@ Ir a:
 https://developer.android.com/studio
 Descargar Android Studio.
 Instalar con opciones por defecto.
+
+Evidencia3:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/3.png)
+
+
+
 1.4 Configurar Android Studio
 1.4.1 Instalar Android SDK
 
@@ -53,8 +60,8 @@ Verifique que estén instalados:
 ○ ✔ Android SDK Platform Tools
 ○ ✔ Android Emulator
 
-Evidencia3:
-![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/3.png)
+Evidencia4:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/4.png)
 
 1.4.2 Crear un emulador de Android
 
