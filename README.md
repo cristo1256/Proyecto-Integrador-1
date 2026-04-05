@@ -63,7 +63,10 @@ Crear un nuevo dispositivo:
 ○ Seleccionar Pixel 5 o similar.
 ○ Elegir imagen del sistema: Android 13 o 14 .
 Finalizar.
-Evidencia:
+
+Evidencia4:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/4.png)
+
 1.5 Instalación del Flutter SDK en Windows
 Pasos:
 Ir a:
@@ -83,7 +86,11 @@ Guardar.
 1.6 Verificar instalación de Flutter
 Abrir PowerShell o CMD y ejecutar:
 flutter --version
-Evidencia:
+
+Evidencia5:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/5.png)
+
+
 1.7 Ejecutar flutter doctor
 Este comando verifica que todo esté correctamente instalado.
 flutter doctor
@@ -93,7 +100,11 @@ Debe mostrar:
 ● ✔ VS Code detectado
 ● ✔ Dispositivo disponible
 
-Evidencia:
+Evidencia6:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/6.png)
+
+
+
 1.8 Verificar dispositivos disponibles
 Ejecutar:
 flutter devices
@@ -101,7 +112,11 @@ Debe aparecer:
 ● Tu emulador Android
 o
 ● Tu teléfono físico conectado por USB
-Evidencia:
+
+Evidencia7:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/7.png)
+
+
 
 2. Creación y ejecución del proyecto (3 puntos)
 2.1 Crear el proyecto Flutter
@@ -114,7 +129,11 @@ Seleccionar Aplicación .
 Elegir carpeta donde guardar el proyecto.
 Asignar nombre:
 proyecto_flutter
-Evidencia:
+
+Evidencia8:
+![imagen](https://github.com/cristo1256/Proyecto-Integrador-1/blob/main/8.png)
+
+
 2.2 Ejecutar la aplicación
 En VS Code:
 Abrir el archivo main.dart.
